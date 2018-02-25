@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "LeeCheongseon"
 
 # URL
 baseurl:            ""
@@ -16,7 +16,7 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//gfjaru.github.io/Kiko/about"
+    href:           "//LeeCheongseon.github.io"
   - name:           "Download"
     href:           "//github.com/gfjaru/Kiko/releases"
 
