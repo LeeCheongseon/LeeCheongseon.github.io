@@ -1,7 +1,7 @@
 # Site settings
-title: 개발공부 | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+title: 개발공부 | 공부한거 기록하는 블로그
+description: "."
+url: "http://www.LeeCheongseon.github.io/"
 author:
   name: "The Review Index"
   email: "dyutibarma@gmail.com"
