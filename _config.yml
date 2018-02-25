@@ -17,8 +17,9 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           "//LeeCheongseon.github.io"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    
+   # name:           "Download"
+   # href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
 sass:
