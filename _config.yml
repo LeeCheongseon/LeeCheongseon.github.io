@@ -29,6 +29,14 @@ defaults:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-paginate-v2
+
+  pagination
+      enabled: true
+      per_page: 2
+      limit: 0
+      sort_field: "date"
+      sort_reverse: true
 
 # Custom variables
 version: "1.0.0"
