@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
-permalink: /about/
+author: "lee"
+permalink: /about
 ---
 
 공부한 내용을 정리하는 블로그입니다.
