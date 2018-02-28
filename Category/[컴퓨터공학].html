@@ -1,8 +1,8 @@
 <!-- /category/[카테고리이름].html -->
 ---
-layout: [사용할_레이아웃]
+layout: default
 ---
-[카테고리이름]에 포함된 글들:
+
 <ul>
 	{% for post in site.categories.[컴퓨터공학] %}
 	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
