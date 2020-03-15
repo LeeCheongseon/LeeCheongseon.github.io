@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About"
+title: "Category"
 author: "lee"
-permalink: /about/
+permalink: /category/
 ---
 
 공부한 내용을 정리하는 블로그입니다.
