@@ -25,3 +25,6 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+# Remote Theme
+remote_theme : mmistakes/minimal-mistakes
